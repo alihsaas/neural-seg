@@ -1,0 +1,11 @@
+rule,train_dice
+lab_l_bright,0.3468
+lab_l_dark,0.0363
+lab_a_bright,0.3144
+lab_a_dark,0.0372
+lab_b_bright,0.3241
+lab_b_dark,0.0205
+hsv_s_bright,0.2793
+hsv_s_dark,0.0355
+hsv_v_bright,0.3409
+hsv_v_dark,0.0251

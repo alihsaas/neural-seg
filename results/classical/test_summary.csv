@@ -1,0 +1,3 @@
+method,images,mean_dice,dice_ci_low,dice_ci_high,mean_iou,mean_precision,mean_recall,median_hd95_px,empty_predictions
+otsu_lab_l_bright,100,0.3566,0.3109,0.4024,0.2498,0.2574,0.9733,271.6073,0
+pixel_logistic,100,0.4818,0.4354,0.5256,0.3494,0.4590,0.7393,167.3113,0
