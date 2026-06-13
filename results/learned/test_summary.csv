@@ -1,0 +1,5 @@
+method,images,mean_dice,dice_ci_low,dice_ci_high,mean_iou,mean_precision,mean_recall,median_hd95_px,empty_predictions
+unet_seed0,100,0.8409,0.8019,0.8748,0.7605,0.8878,0.8573,40.4642,0
+unet_seed1,100,0.8508,0.8132,0.8815,0.7696,0.9052,0.8494,38.9420,0
+unet_seed2,100,0.8399,0.8020,0.8719,0.7574,0.8669,0.8715,46.4371,0
+unet_seed_mean,100,0.8439,0.8078,0.8738,0.7625,0.8866,0.8594,53.3944,0

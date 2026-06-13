@@ -1,0 +1,24 @@
+{
+  "device": "cuda",
+  "torch": "2.9.1+cu128",
+  "runs": [
+    {
+      "name": "unet_seed0",
+      "best_epoch": 60,
+      "best_validation_dice": 0.8678108279159855,
+      "parameters": 7849601
+    },
+    {
+      "name": "unet_seed1",
+      "best_epoch": 56,
+      "best_validation_dice": 0.8556004874989189,
+      "parameters": 7849601
+    },
+    {
+      "name": "unet_seed2",
+      "best_epoch": 51,
+      "best_validation_dice": 0.8622958033296821,
+      "parameters": 7849601
+    }
+  ]
+}
